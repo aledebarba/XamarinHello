@@ -1,0 +1,2 @@
+C:\Workspace\Code\XF.Hello\XF.Hello\XF.Hello.UWP\XF.Hello.UWP.csproj;x86
+C:\Workspace\Code\XF.Hello\XF.Hello\XF.Hello\XF.Hello.csproj;neutral
